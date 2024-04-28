@@ -4,7 +4,7 @@ Just a guy on a mission to level up his craft and have a blast doing it! I enjoy
 
 🔭 I’m currently working on:
   - Netflix 😲 ( Nextjs learning project)
-  - Self performance assment tool (Electron, pottentually a bad choice)
+  - Self-performance assessment tool (Electron, potentially a bad choice)
   - Notepad ( Rust learning project)
 
 🌱 I’m currently learning:
@@ -12,10 +12,10 @@ Just a guy on a mission to level up his craft and have a blast doing it! I enjoy
   - Nextjs
 
 ⚡ Fun facts:
-  - Stream on [twitch](https://twitch.tv/yeonexz). I do dev streams form time to time
-  - I make some content on [youtube](https://www.youtube.com/channel/UCeirSoma8mCzQyzrtAAFeLA)
+  - Stream on [Twitch](https://twitch.tv/yeonexz). I do dev streams from time to time
+  - I make some content on [YouTube](https://www.youtube.com/channel/UCeirSoma8mCzQyzrtAAFeLA)
   - I enjoy fencing 🤺
-  - Tomb Raider III is my first ever game
+  - Tomb Raider III is my first-ever game
 <!--
 **Yeonex/Yeonex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
