@@ -4,7 +4,7 @@ Just a guy on a mission to level up his craft and have a blast doing it! I enjoy
 
 🔭 I’m currently working on:
   - Netflix 😲 ( Nextjs learning project)
-  - Self-performance assessment tool (Electron, potentially a bad choice)
+  - Self-performance assessment tool (Next Js, Rust)
   - Notepad ( Rust learning project)
 
 🌱 I’m currently learning:
